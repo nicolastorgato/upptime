@@ -22,20 +22,18 @@
     "url": "https://amministrazionetrasparente.provincia.treviso.it/L190/",
     "icon": "https://icons.duckduckgo.com/ip3/amministrazionetrasparente.provincia.treviso.it.ico",
     "slug": "amministrazione-trasparente-provincia-di-treviso",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 933,
-    "timeDay": 943,
-    "timeWeek": 933,
-    "timeMonth": 933,
-    "timeYear": 933,
-    "dailyMinutesDown": {
-      "2025-11-07": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 952,
+    "timeDay": 967,
+    "timeWeek": 952,
+    "timeMonth": 952,
+    "timeYear": 952,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Istanze Online Provincia di Treviso",
