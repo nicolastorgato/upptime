@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1827,
-    "timeDay": 1806,
-    "timeWeek": 1827,
-    "timeMonth": 1827,
-    "timeYear": 1827,
+    "time": 1810,
+    "timeDay": 1777,
+    "timeWeek": 1810,
+    "timeMonth": 1810,
+    "timeYear": 1810,
     "dailyMinutesDown": {}
   },
   {
@@ -23,17 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/amministrazionetrasparente.provincia.treviso.it.ico",
     "slug": "amministrazione-trasparente-provincia-di-treviso",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 952,
-    "timeDay": 967,
-    "timeWeek": 952,
-    "timeMonth": 952,
-    "timeYear": 952,
-    "dailyMinutesDown": {}
+    "uptime": "99.32%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
+    "time": 958,
+    "timeDay": 983,
+    "timeWeek": 958,
+    "timeMonth": 958,
+    "timeYear": 958,
+    "dailyMinutesDown": {
+      "2025-11-07": 16
+    }
   },
   {
     "name": "Istanze Online Provincia di Treviso",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 948,
-    "timeDay": 632,
-    "timeWeek": 948,
-    "timeMonth": 948,
-    "timeYear": 948,
+    "time": 837,
+    "timeDay": 616,
+    "timeWeek": 837,
+    "timeMonth": 837,
+    "timeYear": 837,
     "dailyMinutesDown": {}
   }
 ]
