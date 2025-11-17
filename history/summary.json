@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1929,
-    "timeDay": 1952,
-    "timeWeek": 1914,
-    "timeMonth": 1929,
-    "timeYear": 1929,
+    "time": 1936,
+    "timeDay": 2020,
+    "timeWeek": 1918,
+    "timeMonth": 1936,
+    "timeYear": 1936,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 1035,
-    "timeDay": 1017,
-    "timeWeek": 1056,
-    "timeMonth": 1035,
-    "timeYear": 1035,
+    "time": 1053,
+    "timeDay": 1268,
+    "timeWeek": 1081,
+    "timeMonth": 1053,
+    "timeYear": 1053,
     "dailyMinutesDown": {
       "2025-11-07": 16
     }
@@ -43,18 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/servizi.provincia.treviso.it.ico",
     "slug": "istanze-online-provincia-di-treviso",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 1959,
-    "timeDay": 653,
-    "timeWeek": 2521,
-    "timeMonth": 1959,
-    "timeYear": 1959,
-    "dailyMinutesDown": {
-      "2025-11-16": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1859,
+    "timeDay": 626,
+    "timeWeek": 1786,
+    "timeMonth": 1859,
+    "timeYear": 1859,
+    "dailyMinutesDown": {}
   }
 ]
