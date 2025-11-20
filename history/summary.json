@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1937,
-    "timeDay": 1911,
-    "timeWeek": 1897,
-    "timeMonth": 1937,
-    "timeYear": 1937,
+    "time": 1919,
+    "timeDay": 1672,
+    "timeWeek": 1879,
+    "timeMonth": 1919,
+    "timeYear": 1919,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/amministrazionetrasparente.provincia.treviso.it.ico",
     "slug": "amministrazione-trasparente-provincia-di-treviso",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 1059,
-    "timeDay": 1100,
-    "timeWeek": 1061,
-    "timeMonth": 1059,
-    "timeYear": 1059,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1063,
+    "timeDay": 1125,
+    "timeWeek": 1057,
+    "timeMonth": 1063,
+    "timeYear": 1063,
     "dailyMinutesDown": {
       "2025-11-07": 16
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1699,
-    "timeDay": 721,
-    "timeWeek": 1750,
-    "timeMonth": 1699,
-    "timeYear": 1699,
+    "time": 1631,
+    "timeDay": 605,
+    "timeWeek": 1744,
+    "timeMonth": 1631,
+    "timeYear": 1631,
     "dailyMinutesDown": {}
   }
 ]
