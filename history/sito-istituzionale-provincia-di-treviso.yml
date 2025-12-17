@@ -1,7 +1,7 @@
 url: https://www.provincia.treviso.it
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-12-17T13:33:02.603Z
+status: up
+code: 200
+responseTime: 6785
+lastUpdated: 2025-12-17T13:48:31.978Z
 startTime: 2025-11-06T09:32:14.803Z
 generator: Upptime <https://github.com/upptime/upptime>
