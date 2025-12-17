@@ -4,19 +4,19 @@
     "url": "https://www.provincia.treviso.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.provincia.treviso.it.ico",
     "slug": "sito-istituzionale-provincia-di-treviso",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2094,
-    "timeDay": 1924,
-    "timeWeek": 2115,
-    "timeMonth": 2157,
-    "timeYear": 2094,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 2203,
+    "timeDay": 4355,
+    "timeWeek": 2699,
+    "timeMonth": 2306,
+    "timeYear": 2203,
     "dailyMinutesDown": {
-      "2025-12-17": 0
+      "2025-12-17": 16
     }
   },
   {
