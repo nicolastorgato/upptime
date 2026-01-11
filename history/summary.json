@@ -48,7 +48,7 @@
     "url": "https://servizi.provincia.treviso.it/",
     "icon": "https://icons.duckduckgo.com/ip3/servizi.provincia.treviso.it.ico",
     "slug": "istanze-online-provincia-di-treviso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -60,6 +60,7 @@
     "timeMonth": 784,
     "timeYear": 1044,
     "dailyMinutesDown": {
+      "2026-01-11": 0,
       "2025-11-23": 37,
       "2025-11-22": 29
     }
